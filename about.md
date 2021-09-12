@@ -10,7 +10,6 @@ Nice to meet you!!
 <br>
 # More Information
 
-<ul><li>
 </li><li>
 {% for ii in site.navbarlinks %}
   {% if ii.navbar == "GitHub" %}

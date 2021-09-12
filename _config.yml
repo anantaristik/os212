@@ -1,4 +1,4 @@
-version:     "0018b--03-Aug-2021"
+version:     "001--12-September-2021"
 copyright:   "2021-2021"
 description:
   This is 
@@ -22,7 +22,7 @@ navbarlinks:
 title:       "Anantaristik Page"
 lang:        "en-US"
 author:      "Ananta"
-address:     "Chronos, Computer Science, Fasilkom UI 2020"
+address:     "Chronos, Computer Science, University of Indonesia"
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:
