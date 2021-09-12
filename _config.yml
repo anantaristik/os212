@@ -1,14 +1,14 @@
 version:     "0018b--03-Aug-2021"
 copyright:   "2021-2021"
 description:
-  This is a
-  GitHub Page Template
+  This is 
+  anantaristik
 disclaimer:
   I have spoken.
 keywords:    "jekyll, testing"
 navbarlinks:
 - navbar:    "Home"
-  link:      "https://os.vlsm.org/"
+  link:      "https://anantaristik.github.io/os212/"
 - navbar:    "Links"
   link:      "/LINKS/"
 - navbar:    "Tips"

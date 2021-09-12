@@ -4,18 +4,18 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, tempor hokben lorem.
+1. [APA ITU LINUX?](https://www.youtube.com/watch?v=zA3vmx0GaO8)<br>
+Video ini keren sekali!!
+Untuk orang yang ingin tahu tentang Linux dan penjelasannya. Karena tontonan ini sangat mudah dipahami.
+Cool!
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [APA ITU GITHUB?](https://www.youtube.com/watch?v=w3jLJU7DT5E)<br>
+Penjelasan menarik tentang GitHub!
+Dijelaskan oleh Akun Youtube GitHub!
+Sangat jelas dan mudah dipahami, boleh sekali untuk ditonton!
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+3. [MYLOG.TXT](https://anantaristik.github.io/os212/TXT/mylog.txt)<br>
+THIS IS MYLOG!
+always updatee!
+Boleh sekali untuk dilihat, bagaimana Aku mengupdate log dengan berkala!
 
