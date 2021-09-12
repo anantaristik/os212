@@ -9,7 +9,7 @@ I am {{ site.author }}
 ## Table Example
 
 | [HOME]({{ https://anantaristik.github.io/os212/ }}/) | [LISTINGS]({{ site.baseurl }}/000.html) | [LINKS]({{ site.baseurl }}/LINKS/) |
-| [LOG]({{https://anantaristik.github.io/os212/TXT/mylog.txt}}/TIPS/) | [TARBALL]({{ site.baseurl }}/template.tar.bz2) |
+| [LOG]({{https://anantaristik.github.io/os212/TXT/mylog.txt}}) | [TARBALL]({{ https://os.vlsm.org/Log/anantaristik.tar.bz2.txt }}) |
 | [GitHub]({{https://github.com/anantaristik/}}) |
 
 Qapla!
