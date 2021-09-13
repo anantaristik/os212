@@ -26,3 +26,5 @@ ZCZC W01 90 L13 Assignment #03
 ZCZC W01 20 AsDos: asking WinSCP
 ZCZC W01 150 L18 Assignment #08
 ZCZC W01 75 L19 Assignment #09
+ZCZC W01 15 L06 References/Books/Documents/GSGS prepare for quiz
+ZCZC W02 20 L22 Quiz OS WEEK 01 (1&2)
