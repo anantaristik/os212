@@ -1,7 +1,7 @@
 ---
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="os212/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 <br>
 This [GitHub Page](https://pages.github.com/) is hosted at [GitHub.com]({{ site.urlgithub }}).
