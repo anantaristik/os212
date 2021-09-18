@@ -1,6 +1,8 @@
 ---
 ---
 
+<link rel="shortcut icon" type="image/x-icon" href="os212/favicon.ico">
+
 <br>
 This [GitHub Page](https://pages.github.com/) is hosted at [GitHub.com]({{ site.urlgithub }}).
 This is Operating Systems 2021-2 (OS212)
