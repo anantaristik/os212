@@ -10,7 +10,7 @@ Nice to meet you!!
 <br>
 # More Information
 
-</li><li>
+<ul><li>
 {% for ii in site.navbarlinks %}
   {% if ii.navbar == "GitHub" %}
     <a href="{{ ii.link | https://github.com/anantaristik }}">{{ ii.navbar }}</a>
