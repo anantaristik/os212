@@ -4,6 +4,8 @@ permalink: /LINKS/
 
 # LINKS
 
+## Week01
+
 1. [APA ITU LINUX?](https://www.youtube.com/watch?v=zA3vmx0GaO8)<br>
 Video ini keren sekali!!
 Untuk orang yang ingin tahu tentang Linux dan penjelasannya. Karena tontonan ini sangat mudah dipahami.
@@ -18,4 +20,16 @@ Sangat jelas dan mudah dipahami, boleh sekali untuk ditonton!
 THIS IS MYLOG!
 always updatee!
 Boleh sekali untuk dilihat, bagaimana Aku mengupdate log dengan berkala!
+
+4. [LINK UTAMA OS212](https://os.vlsm.org/)<br>
+Ini link yang akan selalau kubuka untuk mempelajari mata kuliah Operating System ini!
+
+## Week02
+
+5. [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
+Seru sekali mempelajari bahasa baru yang menarik!! Jangan sampai kelewatan!
+Tutorial yang mudah dimengerti untuk memulai C Programming. NICE!
+
+6. [CYBERSECURITY dalam Bahasa](https://www.youtube.com/watch?v=gKBwEixTrPc)<br>
+Mempelajari body of knowledge dari Cybersecurity dalam bahasa, dan sangat mudah dipahami! NICE!! 
 
