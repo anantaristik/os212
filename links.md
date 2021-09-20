@@ -35,9 +35,9 @@ Mempelajari body of knowledge dari Cybersecurity dalam bahasa, dan sangat mudah 
 
 ## Week03
 
-7. [File System Video](https://www.youtube.com/watch?v=KN8YgJnShPM)
+7. [File System Video](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
 Penjelasan yang baik mengenai _File System_. GG!!
 
-8. [File System & FUSE](https://os.vlsm.org/Slides/os03.pdf)
+8. [File System & FUSE](https://os.vlsm.org/Slides/os03.pdf)<br>
 SLIDE utama untuk W03! cool!
 
