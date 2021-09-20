@@ -36,5 +36,5 @@ ZCZC W02 150 L26 C-Language
 ZCZC W02 125 L09 Assignment in General Week 02
 ZCZC W02 20 L64 Helping OS related problem to a friend.
 ZCZC W02 50 L04 GitHub Pages update
-
+ZCZC W03 80 L02 OS Zoom related
 
