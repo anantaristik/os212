@@ -33,3 +33,11 @@ Tutorial yang mudah dimengerti untuk memulai C Programming. NICE!
 6. [CYBERSECURITY dalam Bahasa](https://www.youtube.com/watch?v=gKBwEixTrPc)<br>
 Mempelajari body of knowledge dari Cybersecurity dalam bahasa, dan sangat mudah dipahami! NICE!! 
 
+## Week03
+
+7. [File System Video](https://www.youtube.com/watch?v=KN8YgJnShPM)
+Penjelasan yang baik mengenai _File System_. GG!!
+
+8. [File System & FUSE](https://os.vlsm.org/Slides/os03.pdf)
+SLIDE utama untuk W03! cool!
+
