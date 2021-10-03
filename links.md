@@ -41,3 +41,13 @@ Penjelasan yang baik mengenai _File System_. GG!!
 8. [File System & FUSE](https://os.vlsm.org/Slides/os03.pdf)<br>
 SLIDE utama untuk W03! cool!
 
+## Week04
+
+8. [Logical and Physical Address in OS](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
+Penjelasan mengenai physical addres pada OS dan artikel ini sangat mudah dipahami
+
+9. [Pointers in C](https://www.youtube.com/watch?v=mw1qsMieK5c)<br>
+SANGAT MUDAH DIPAHAMI! Penjelasan pointers dalam bahasa C ini sangat membantu untuk memahami pointer.
+
+10. [Paging in Operating System](https://www.youtube.com/watch?v=p9yZNLeOj4s)<br>
+About segmented, paged and virtual memory
