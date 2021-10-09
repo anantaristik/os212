@@ -60,5 +60,15 @@ ZCZC W04 15 L17 Assignment #07
 ZCZC W04  5 L18 Assignment #08
 ZCZC W04  5 L19 Assignment #09
 ZCZC W04 60 L02 OS Zoom meetings related (QnA)
-
+ZCZC W05 60 L05 OS Quiz study related
+ZCZC W05 20 L22 OS Quiz related
+ZCZC W05 30 L01 SCELE OS Forum related
+ZCZC W05 100 L02 OS Zoom related
+ZCZC W05 60 L11 Assignment #01
+ZCZC W05 25 L14 Assignment #04
+ZCZC W05 35 L15 Assignment #05
+ZCZC WO5 40 L16 Assignment #06
+ZCZC W05 25 L17 Assignment #07
+ZCZC W05 20 L18 Assignment #08
+ZCZC W05 20 L19 Assignment #09
 
