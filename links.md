@@ -51,3 +51,14 @@ SANGAT MUDAH DIPAHAMI! Penjelasan pointers dalam bahasa C ini sangat membantu un
 
 10. [Paging in Operating System](https://www.youtube.com/watch?v=p9yZNLeOj4s)<br>
 About segmented, paged and virtual memory
+
+## Week05
+11. [Partition Allocation Methods in Memory Management](https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/)<br>
+Website yang menarik dan membantu Anda untuk mengenal dan mempelajari tentang metode alokasi partisi dalam manajemen memori. NICEE
+
+12. [Cara Menambah Virtual Memory di Windows](https://winpreso.com/cara-menambah-virtual-memory-di-windows/)<br>
+Informasi menarik untukmu yang ingin menambah virtual memory di Windows! Mudah dilakukan 👍
+
+13. [Apa itu Trash](https://www.javatpoint.com/what-is-thrash)<br>
+Dalam dunia ilmu komputer, thrash adalah kinerja yang buruk dari virtual memori.... Untuk lebih tahu selanjutnya bisa klik link di atas ya! Ini sangat menarik dan menambah wawasan tentang virtual memori
+
