@@ -71,4 +71,14 @@ ZCZC WO5 40 L16 Assignment #06
 ZCZC W05 25 L17 Assignment #07
 ZCZC W05 20 L18 Assignment #08
 ZCZC W05 20 L19 Assignment #09
-
+ZCZC W06 5 L22 Quiz OS
+ZCZC W06 45 L32 Youtube: Studying OS
+ZCZC W06 60 L11 Assignment #01
+ZCZC W06 30 L12 Assignment #02
+ZCZC W06 20 L13 Assignment #03
+ZCZC W06 35 L14 Assignment #04
+ZCZC W06 15 L15 Assignment #05
+ZCZC W06 5  L16 Assignment #06
+ZCZC W06 10 L17 Assingment #07
+ZCZC W06 5  L18 Assignment #08
+ZCZC W06 20 L19 Assignment #09
