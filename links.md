@@ -62,7 +62,7 @@ Informasi menarik untukmu yang ingin menambah virtual memory di Windows! Mudah d
 13. [Apa itu Trash](https://www.javatpoint.com/what-is-thrash)<br>
 Dalam dunia ilmu komputer, thrash adalah kinerja yang buruk dari virtual memori.... Untuk lebih tahu selanjutnya bisa klik link di atas ya! Ini sangat menarik dan menambah wawasan tentang virtual memori
 
-## Week05
+## Week06
 14. [FORK IN C()](https://www.geeksforgeeks.org/fork-system-call/)<br>
 Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process). After a new child process is created, both processes will execute the next instruction following the fork() system call. A child process uses the same pc(program counter), same CPU registers, same open files which use in the parent process.
 
@@ -71,3 +71,10 @@ Process is the execution of a program that performs the actions specified in tha
 
 16. [THREAD IN OS](https://www.geeksforgeeks.org/thread-in-operating-system/)<br>
 A thread is a path of execution within a process. A process can contain multiple threads.
+
+## Week07
+17. [SEMAPHORE](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+Penjelasan menarik mengenai Semaphore pada Operating System! Sangat mudah dipahami
+
+18. [Critical Section Problem](https://www.javatpoint.com/os-critical-section-problem)<br>
+Penjelasan menarik terkait critical section problem pada OS! Cool!!
