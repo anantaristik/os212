@@ -72,9 +72,37 @@ Process is the execution of a program that performs the actions specified in tha
 16. [THREAD IN OS](https://www.geeksforgeeks.org/thread-in-operating-system/)<br>
 A thread is a path of execution within a process. A process can contain multiple threads.
 
+<<<<<<< Updated upstream
+=======
+## Week06
+14. [FORK IN C()](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process). After a new child process is created, both processes will execute the next instruction following the fork() system call. A child process uses the same pc(program counter), same CPU registers, same open files which use in the parent process.
+
+15. [PROCESS MANAGEMENT IN OS](https://www.guru99.com/process-management-pcb.html)<br>
+Process is the execution of a program that performs the actions specified in that program. It can be defined as an execution unit where a program runs. The OS helps you to create, schedule, and terminates the processes which is used by CPU. A process created by the main process is called a child process.
+
+16. [THREAD IN OS](https://www.geeksforgeeks.org/thread-in-operating-system/)<br>
+A thread is a path of execution within a process. A process can contain multiple threads.
+
+>>>>>>> Stashed changes
 ## Week07
 17. [SEMAPHORE](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
 Penjelasan menarik mengenai Semaphore pada Operating System! Sangat mudah dipahami
 
 18. [Critical Section Problem](https://www.javatpoint.com/os-critical-section-problem)<br>
 Penjelasan menarik terkait critical section problem pada OS! Cool!!
+<<<<<<< Updated upstream
+=======
+
+## Week08
+19. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+Linux From Scratch
+
+## Week09
+20. [CPU Scheduling in Operating](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+langkah-langkah dan panduan lengkap untuk membuat linux dari scratch.
+
+## Week10
+21. [Build Linux Kernel From Scratch](https://phoenixnap.com/kb/build-linux-kernel)<br>
+How to Build Linux Kernel From Scratch |Step-By-Step Guide
+>>>>>>> Stashed changes

@@ -20,5 +20,22 @@ ZCZC W06 ealiansyah
 ZCZC W06 efsrdi
 
 ZCZC W07 ferdinandamos
+<<<<<<< Updated upstream
 ZCZC W07 fikriazain
 ZCZC W07 firlandiansyari
+=======
+ZCZC W07 firlandiansyari
+ZCZC W07 fikriazain
+
+ZCZC W08 Hzz-Hzz
+ZCZC W08 Han-Zalwi
+ZCZC W08 huanis
+
+ZCZC W09 Irhaml
+ZCZC W09 iqbalasrif
+ZCZC W09 indiradr
+
+ZCZC W10 joshste
+ZCZC W10 kartikadipra
+ZCZC W10 joyamanda
+>>>>>>> Stashed changes
